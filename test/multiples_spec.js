@@ -30,6 +30,4 @@ describe( 'Sum of a Multiple Function', function() {
     // Change the argument given to .equal() to the correct number
     sum.should.equal(23331668);
   });
-  
-
 });
